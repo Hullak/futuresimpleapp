@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="521c8217-acbe-403b-ab61-dcb502939f25" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Unn3m5L5Rqw4hyTthXYRzYM9jv" />
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\konrad.kolodziej\IdeaProjects\futuresimpleapp\src\main\java\com\futuresimple\app" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Maven.futuresimple.app [test]">
+    <configuration name="futuresimple.app [test]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="test" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="LoginPageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="futuresimpleapp" />
+      <option name="PACKAGE_NAME" value="com.futuresimple.app.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.futuresimple.app.testcases.LoginPageTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginPageTest.changeLeadStatusInSettings" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="futuresimpleapp" />
+      <option name="PACKAGE_NAME" value="com.futuresimple.app.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.futuresimple.app.testcases.LoginPageTest" />
+      <option name="METHOD_NAME" value="changeLeadStatusInSettings" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginPageTest.createLeadTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="futuresimpleapp" />
+      <option name="PACKAGE_NAME" value="com.futuresimple.app.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.futuresimple.app.testcases.LoginPageTest" />
+      <option name="METHOD_NAME" value="createLeadTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Maven.futuresimple.app [test]" />
+        <item itemvalue="TestNG.LoginPageTest.changeLeadStatusInSettings" />
+        <item itemvalue="TestNG.LoginPageTest.createLeadTest" />
+        <item itemvalue="TestNG.LoginPageTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="521c8217-acbe-403b-ab61-dcb502939f25" name="Default Changelist" comment="" />
+      <created>1576001030032</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576001030032</updated>
+    </task>
+    <servers />
+  </component>
+</project>
