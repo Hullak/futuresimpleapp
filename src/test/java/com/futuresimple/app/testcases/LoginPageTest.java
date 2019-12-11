@@ -15,7 +15,7 @@ import java.io.IOException;
 
 public class LoginPageTest {
 
-    public static final String LEAD_NAME = "Kolo4";
+    public static final String LEAD_NAME = "Kolodziej";
     public static final String STATUS_NEW = "New";
     public static final String NEW_STATUS_NAME = "Nowy";
     WebDriver driver;
